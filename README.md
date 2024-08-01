@@ -6,7 +6,7 @@ Based on [Mottie/javascript-number-formatter](https://github.com/Mottie/javascri
 
 ## Display Options
 
-The extension supports this fields type: integer, decimal, float.
+Supported fields types: integer, decimal, float.
 
 ![display-options](docs/display-image-1.png)
 
