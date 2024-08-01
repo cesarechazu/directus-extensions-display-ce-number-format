@@ -14,9 +14,9 @@ The extension supports this fields type: integer, decimal, float.
 
 Some examples that you can use, you can also create your own masks. [Full Demo](https://mottie.github.io/javascript-number-formatter/)
 
-![display](docs/display.png)
+![display](docs/display-image-2.png)
 
 
 ## Result
 
-![collection-display](docs/display2.png)
+![collection-display](docs/display-image-3.png)
