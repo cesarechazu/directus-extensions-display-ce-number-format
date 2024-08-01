@@ -12,7 +12,7 @@ The extension supports this fields type: integer, decimal, float.
 
 ## Mask examples
 
-Some examples that you can use, you can also create your own masks. [Full Demo](https://mottie.github.io/javascript-number-formatter/)
+Some examples, you can also create your own masks. [Full Demo](https://mottie.github.io/javascript-number-formatter/)
 
 ![display](docs/display-image-2.png)
 
